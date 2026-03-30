@@ -10,7 +10,8 @@ This project is a real-time dashboard built using Python to display live stock m
 - Pandas
 
 ## How to Run:
-termminal 
+termminal  
+<br>
 pip install -r requirements.txt
 <br>
 streamlit run app.py
